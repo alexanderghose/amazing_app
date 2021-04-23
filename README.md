@@ -7,6 +7,7 @@ Amazing app is an amazing app
 
 This app was created by:
 - Dor
+- Jean coutu
 - Aidan
 - Daniel
 - Mishal
