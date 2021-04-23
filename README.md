@@ -6,9 +6,11 @@ Amazing app is an amazing app
 
 This app was created by:
 
+
 - Jean Cutuo <img src="https://i.imgur.com/sfO1t3Q.jpg"></img>
+
 - Aidan
 - Daniel
 - Mishal
-- Nicole
+- Ferguson
 - Alex
